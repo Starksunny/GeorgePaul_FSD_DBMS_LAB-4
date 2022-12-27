@@ -1,0 +1,2 @@
+create database E_commerce_website;
+use E_commerce_website
